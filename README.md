@@ -2,6 +2,7 @@
 
 A lightweight Java client for interacting with the OpenAI Chat Completions API. Sends a prompt, retrieves the model's response, and reports token usage — with optional logging of conversations to a MySQL database.
 
+
 **Features**
 
 Send prompts to OpenAI's gpt-3.5-turbo-0125 model via HttpURLConnection
